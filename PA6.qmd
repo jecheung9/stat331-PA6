@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Nathan, Ricky, Jeffery, Jacob 
 format: html
 author: Jeffrey Cheung, Ricky Murillo, Nathan Madlansacay, Jacob Hinshaw
 editor: visual
